@@ -30,7 +30,7 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="Django" width="26px" src="https://img.icons8.com/material-outlined/24/000000/django.png" />
-<img align="left" alt="Flask" width="26px" src="https://github.com/John-Alex07/John-Alex07/blob/23f3979ee53e5c8970f959b16cae6aa90fd02d44/flask.png" />
+<img align="left" alt="Flask" width="26px" src="https://github.com/John-Alex07/John-Alex07/blob/0b746483bef4ad149815f2a7479896eea1053d42/icons8-flask-100.png" />
 <!-- <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" /> -->
 <!-- <img align="left" alt="Ionic" width="26px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" /> -->
@@ -38,13 +38,13 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+ -->
 <br />
 <br />
 <br />
 
 <img align="left" alt="raggzy271's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=John-Alex07&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-[instagram]: https://www.instagram.com/raggzy27/
-[linkedin]: https://www.linkedin.com/in/raggzy27/
+[instagram]: https://www.instagram.com/john_a13x/
+[linkedin]: https://www.linkedin.com/in/johnalex07/
