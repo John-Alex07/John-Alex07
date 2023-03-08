@@ -1,6 +1,6 @@
 ## Hi there, I'm John Alexander 👋 
 
-### I'm a Student, Machine Leaning Enthusiast, and Consistent Learner!!
+### I'm a Student, a Machine Leaning Enthusiast, and a Consistent Learner!!
 
 - 🧠 Brainstorming ways to save the world through code.
 - 🎵 I love listening to music!
@@ -30,9 +30,10 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="Django" width="26px" src="https://img.icons8.com/material-outlined/24/000000/django.png" />
-<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
-<img align="left" alt="Ionic" width="26px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img align="left" alt="Flask" width="26px" src="https://github.com/John-Alex07/John-Alex07/blob/23f3979ee53e5c8970f959b16cae6aa90fd02d44/flask.png" />
+<!-- <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" /> -->
+<!-- <img align="left" alt="Ionic" width="26px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" /> -->
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
