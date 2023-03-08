@@ -14,7 +14,7 @@
 
 ### Key Strengths:
 
--     Machine Learning
+- 💻 Machine Learning
 - 💻 Development
 - 📢 Communication
 - 👷‍♂️ Problem Solving
