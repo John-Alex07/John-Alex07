@@ -1,6 +1,6 @@
 ## Hi there, I'm John Alexander 👋 
 
-### I'm a Student, a Machine Leaning Enthusiast, and a Consistent Learner!!
+### I'm a Final Year Engineering Student, a Machine Leaning Enthusiast, and a Consistent Learner!!
 
 - 🧠 Brainstorming ways to save the world through code.
 - 🎵 I love listening to music!
