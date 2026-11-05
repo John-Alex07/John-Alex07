@@ -45,7 +45,7 @@
 <br />
 <br />
 
-<img align="left" alt="raggzy271's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=John-Alex07&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<!-- <img align="left" alt="raggzy271's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=John-Alex07&show_icons=true&hide_border=true&count_private=true&theme=radical" /> -->
 
 [instagram]: https://www.instagram.com/john_a13x/
 [linkedin]: https://www.linkedin.com/in/johnalex07/
